@@ -1,0 +1,18 @@
+# Direct dataset analysis and annotation dependencies; not an environment lockfile.
+numpy
+pandas
+scipy
+matplotlib
+scikit-learn
+sentence-transformers
+faiss-cpu
+umap-learn
+hdbscan
+tqdm
+torch
+Pillow
+opencv-python
+openai
+stanza
+spacy
+huggingface-hub

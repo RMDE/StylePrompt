@@ -1,0 +1,29 @@
+{
+  "input_path": "./experiment_outputs/dedup_step2_descriptor_merge/fragment_level_records.descriptor_recombined.jsonl",
+  "total_lines": 76338,
+  "empty_lines": 0,
+  "valid_records": 76338,
+  "invalid_json_lines": 0,
+  "missing_raw_descriptor": 0,
+  "semantic_input_item_count": 76338,
+  "model_name": "BAAI/bge-large-en-v1.5",
+  "auto_merge_threshold": 0.87,
+  "top_k": 300,
+  "hnsw_m": 32,
+  "hnsw_ef_construction": 200,
+  "hnsw_ef_search": 512,
+  "semantic_cluster_count": 42267,
+  "no_similarity_item_count": 32009,
+  "no_similarity_cluster_count": 32009,
+  "similar_group_count": 10258,
+  "similar_involved_item_count": 44329,
+  "combined_mode_recombined_item_count": 42267,
+  "max_cluster_size": 204,
+  "mean_cluster_size": 1.80608985733551,
+  "output_files": {
+    "semantic_no_similarity": "./experiment_outputs/dedup_step3_semantic_only/semantic_no_similarity.jsonl",
+    "semantic_similar_groups": "./experiment_outputs/dedup_step3_semantic_only/semantic_similar_groups.jsonl",
+    "semantic_combined_mode_recombined": "./experiment_outputs/dedup_step3_semantic_only/semantic_combined_mode_recombined.jsonl",
+    "semantic_stats": "./experiment_outputs/dedup_step3_semantic_only/semantic_dedup_stats.json"
+  }
+}

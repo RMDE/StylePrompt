@@ -1,0 +1,1001 @@
+global_index,group_index,index_in_group,style_id,raw_descriptor
+0,0,0,S0,glows ominously
+1,0,1,S1,pencils
+2,0,2,S2,glitter on the edges
+3,0,3,S3,a cold blue background
+4,0,4,S4,shiny and sparkly
+5,1,0,S0,dense volumetric mist filling the frame
+6,1,1,S1,weighted voronoi stippling
+7,1,2,S2,120 kelimelik kısa bir hikâye
+8,1,3,S3,cool blue and orange palette
+9,1,4,S4,new chinese minimalist illustration
+10,2,0,S0,imageupgraderv2:0.65
+11,2,1,S1,"soft, fluffy texture"
+12,2,2,S2,viewed from a slightly low-angle perspective
+13,2,3,S3,"red, blue, orange and yellow lines"
+14,2,4,S4,exuding a deadly elegance
+15,3,0,S0,in the style of digital painting
+16,3,1,S1,intricated pose
+17,3,2,S2,deconstructive
+18,3,3,S3,text artifacts
+19,3,4,S4,a maroon hue
+20,4,0,S0,magazine quality photo
+21,4,1,S1,a white and black suit
+22,4,2,S2,giger's biomechanical aesthetic
+23,4,3,S3,capitalized letters
+24,4,4,S4,"the lurid, multi-colored glow of countless neon signs"
+25,5,0,S0,radiating magical energy
+26,5,1,S1,artistically intricate style
+27,5,2,S2,dark fog
+28,5,3,S3,"warm, golden brown"
+29,5,4,S4,newtooncore
+30,6,0,S0,made up of different colors
+31,6,1,S1,petzval lens
+32,6,2,S2,the warm tones from the autumn leaves
+33,6,3,S3,motion blur on extremities
+34,6,4,S4,digital photo
+35,7,0,S0,realism and character
+36,7,1,S1,digital apex legends illustration portrait
+37,7,2,S2,art by joseph leyendecker
+38,7,3,S3,chengongzi123:7]
+39,7,4,S4,still life art
+40,8,0,S0,whimsical motifs
+41,8,1,S1,realism and coherence
+42,8,2,S2,intricate details and engravings
+43,8,3,S3,grunge cyberpunk
+44,8,4,S4,tools used
+45,9,0,S0,mural art
+46,9,1,S1,tomer hanuka
+47,9,2,S2,glitter accents on figure
+48,9,3,S3,unscharf gehalten
+49,9,4,S4,retro glitch
+50,10,0,S0,the scene's ethereal aura
+51,10,1,S1,tcwak
+52,10,2,S2,"a mesmerizing, dreamlike watercolor painting"
+53,10,3,S3,written in a circle shape
+54,10,4,S4,melancholic atmosphere
+55,11,0,S0,in the faint dawn light
+56,11,1,S1,highly saturated
+57,11,2,S2,merantz
+58,11,3,S3,a colorful design on the top
+59,11,4,S4,energetic and stylish mood
+60,12,0,S0,studio lighting delicate
+61,12,1,S1,accentuated linework
+62,12,2,S2,trending on pinterest vogue italia
+63,12,3,S3,makes you want to cry
+64,12,4,S4,white and gold text
+65,13,0,S0,tnr \(horiko1525\)
+66,13,1,S1,2024
+67,13,2,S2,pastel gradient
+68,13,3,S3,"chaotic, expressive, almost violent"
+69,13,4,S4,"ethereal, almost dreamlike quality of the scene"
+70,14,0,S0,reality unravels at its edges
+71,14,1,S1,visible brush strokes in the style of impressionist masters
+72,14,2,S2,"3 5 mm film, anamorphic, single long shot from schindler's list by steven spielberg"
+73,14,3,S3,top soft light
+74,14,4,S4,exceptional detail and clarity
+75,15,0,S0,a creepy look
+76,15,1,S1,in style of wojtek fus
+77,15,2,S2,inkpunk anime
+78,15,3,S3,behind them
+79,15,4,S4,v0.1:0.6
+80,16,0,S0,a highly detailed portrait
+81,16,1,S1,stills from steven spielberg epic film
+82,16,2,S2,by ralph blakelock
+83,16,3,S3,"the vibrant, spectral energy that surrounds her"
+84,16,4,S4,in red and green
+85,17,0,S0,"the lighting is soft and natural, casting gentle shadows and highlighting the textures of the stairs and the woman's clothing"
+86,17,1,S1,jessica oyhenart
+87,17,2,S2,on the ad
+88,17,3,S3,indoors with artificial light
+89,17,4,S4,precise textures
+90,18,0,S0,bold curved typography
+91,18,1,S1,dramatic and reverent
+92,18,2,S2,the red backdrop
+93,18,3,S3,"dramatic, abstract background"
+94,18,4,S4,"bold, exaggerated brushstrokes"
+95,19,0,S0,24-70mm lens at f 5.6 aperture setting
+96,19,1,S1,artist name subtle
+97,19,2,S2,steampunk style
+98,19,3,S3,"bright, even lighting"
+99,19,4,S4,xiang su
+100,20,0,S0,professional award winning portrait photography
+101,20,1,S1,outlined in a golden color
+102,20,2,S2,famous cinematic framing
+103,20,3,S3,realism ambience
+104,20,4,S4,traditional brown and white
+105,21,0,S0,w0gf1l
+106,21,1,S1,"frames her in a low, wide-angle view"
+107,21,2,S2,christmas theme
+108,21,3,S3,serene moment
+109,21,4,S4,thick and glistening
+110,22,0,S0,perfect clarity and depth
+111,22,1,S1,green and blue and brown
+112,22,2,S2,a highly detailed character portrait
+113,22,3,S3,highly detailed painting by artgerm and greg rutkowski and alphonse mucha
+114,22,4,S4,expressive power
+115,23,0,S0,refiner model
+116,23,1,S1,representational
+117,23,2,S2,strong light contrast
+118,23,3,S3,yfg-asak
+119,23,4,S4,incase style v3-1 ponyxl ilff
+120,24,0,S0,hyperdetailed skin
+121,24,1,S1,watermark in the bottom right corner
+122,24,2,S2,jean-leon gerome
+123,24,3,S3,egirl style
+124,24,4,S4,perfectly shaded
+125,25,0,S0,dreamy pink background
+126,25,1,S1,glistening with wet highlights
+127,25,2,S2,high-detail render
+128,25,3,S3,dynamic shadows
+129,25,4,S4,"an intense, piercing light"
+130,26,0,S0,simple soft pastel background (light teal or soft beige)
+131,26,1,S1,"a close-up, high-contrast photograph"
+132,26,2,S2,"a cool, techy texture"
+133,26,3,S3,indirect lighting
+134,26,4,S4,mike winkelmann
+135,27,0,S0,the texture of her bodysuit
+136,27,1,S1,free style
+137,27,2,S2,childhood memories
+138,27,3,S3,style of alphonse mucha
+139,27,4,S4,laurence demaison
+140,28,0,S0,by ken kelly
+141,28,1,S1,fading into blue and then teal
+142,28,2,S2,"the title ""breaking bread"" is displayed in bold, stylized text at the top, with the ""breaking"" in a gritty, cracked font, while ""bread"" is written in warm, golden letters resembling freshly baked loaves"
+143,28,3,S3,a fantasy digital painting by greg rutkowski and james gurney
+144,28,4,S4,"the lighting is dramatic, with soft neon green highlights illuminating his silhouette, casting subtle shadows on the matrix background"
+145,29,0,S0,a dense and unsettling atmosphere
+146,29,1,S1,usnr style ill v1 lokr3:0.35
+147,29,2,S2,by hiroya oku and james jean
+148,29,3,S3,3 d shading
+149,29,4,S4,detail detail slider v4:0.69
+150,30,0,S0,a dramatic macro photograph
+151,30,1,S1,intricate and gothic
+152,30,2,S2,subtle warm spotlighting
+153,30,3,S3,cute style
+154,30,4,S4,1.75
+155,31,0,S0,vhs grain aesthetic
+156,31,1,S1,painting background
+157,31,2,S2,"the lighting in the image is natural, with the sun casting dappled shadows across the scene and highlighting the woman's features"
+158,31,3,S3,geiger
+159,31,4,S4,gray and yellow palette
+160,32,0,S0,a mixed media artwork
+161,32,1,S1,extremely detailed cinematic lighting
+162,32,2,S2,emotional masterpiece
+163,32,3,S3,minimalist and understated
+164,32,4,S4,toplight lighting
+165,33,0,S0,visuals
+166,33,1,S1,white tiles
+167,33,2,S2,in waves
+168,33,3,S3,a plain white color
+169,33,4,S4,koyoharu gotouge
+170,34,0,S0,"peaceful, tranquil japanese morning atmosphere"
+171,34,1,S1,claustrophobia
+172,34,2,S2,electric indigo
+173,34,3,S3,light brown colors
+174,34,4,S4,8k clear and sharp quality
+175,35,0,S0,a three-quarter view
+176,35,1,S1,a dramatic and dynamic composition
+177,35,2,S2,dragan bibin
+178,35,3,S3,realistic costume
+179,35,4,S4,octane mask
+180,36,0,S0,fine art sensitivity
+181,36,1,S1,the alien film franchise
+182,36,2,S2,85mm portrait lens at f/1.4
+183,36,3,S3,a spiral bound
+184,36,4,S4,low neon effects
+185,37,0,S0,high-contrast color scheme
+186,37,1,S1,a blurred background of abstract colors
+187,37,2,S2,by rei \(sanbonzakura\)
+188,37,3,S3,elegance and strength
+189,37,4,S4,an extreme macro close-up
+190,38,0,S0,painted by walt disney
+191,38,1,S1,primal dominance
+192,38,2,S2,productive atmosphere
+193,38,3,S3,8k raw
+194,38,4,S4,made out of metal
+195,39,0,S0,auras
+196,39,1,S1,"splashes of red, orange, blue and purple"
+197,39,2,S2,adding texture and depth to the scene
+198,39,3,S3,"intricate, weathered stone textures"
+199,39,4,S4,detailed realistic photo
+200,40,0,S0,inner darkness
+201,40,1,S1,mist rendering
+202,40,2,S2,"exaggerated, whimsical features"
+203,40,3,S3,bad framing
+204,40,4,S4,transmitiendo lucha interior y rebeldía
+205,41,0,S0,the scene itself is horrifying
+206,41,1,S1,intricate linocut landscape with twisted trees and rolling hills
+207,41,2,S2,warm color tone
+208,41,3,S3,viewed from a directly overhead angle
+209,41,4,S4,greg rutkoswski
+210,42,0,S0,a combination of metallic colors
+211,42,1,S1,misty atmosphere
+212,42,2,S2,in the styles of greg simkins and gerald brom
+213,42,3,S3,wide long shot
+214,42,4,S4,taupe is the only suitable colour
+215,43,0,S0,surreal beauty
+216,43,1,S1,lighting is soft
+217,43,2,S2,art by bastien grivet
+218,43,3,S3,pencil strokes
+219,43,4,S4,industrial sci fi sdxl 1.0:1.0
+220,44,0,S0,ferrania p30
+221,44,1,S1,style claymationsdxl
+222,44,2,S2,eye-level framing
+223,44,3,S3,warm and sepia-toned lighting
+224,44,4,S4,bokeh around character
+225,45,0,S0,japanese anime film drawings
+226,45,1,S1,roshan
+227,45,2,S2,on her lips
+228,45,3,S3,gold purple pink light colors
+229,45,4,S4,dreadful suspense
+230,46,0,S0,"a restricted palette of fiery red, deep black, and stark white"
+231,46,1,S1,hyper-realistic photorealism
+232,46,2,S2,realistic and high-resolution image
+233,46,3,S3,aggressive lighting
+234,46,4,S4,"a cinematic, painterly shot"
+235,47,0,S0,same format and frames
+236,47,1,S1,style by george shaw
+237,47,2,S2,behance
+238,47,3,S3,"a lush, fantastical environment"
+239,47,4,S4,4 koma anime style image
+240,48,0,S0,direct flash
+241,48,1,S1,large café windows
+242,48,2,S2,style of dan mumford
+243,48,3,S3,outlined in brown
+244,48,4,S4,dynamic stroke detail with curved line
+245,49,0,S0,woafu plushify sdxl v02:1> single
+246,49,1,S1,p3p3
+247,49,2,S2,vincent desiderio
+248,49,3,S3,0.8>
+249,49,4,S4,softly blurred indoor setting
+250,50,0,S0,"soft, white background"
+251,50,1,S1,star wars semi realistic cartoon style
+252,50,2,S2,glowing pink and yellow
+253,50,3,S3,organic patterns
+254,50,4,S4,bold pixel
+255,51,0,S0,no distortions
+256,51,1,S1,cinematic close-up video
+257,51,2,S2,black and white photography aesthetic
+258,51,3,S3,by artgerm
+259,51,4,S4,written below it
+260,52,0,S0,momosp
+261,52,1,S1,light from top right
+262,52,2,S2,"such as pinks, yellows, blues, and greens"
+263,52,3,S3,futuristic precision
+264,52,4,S4,ayan nag
+265,53,0,S0,nostalgic feel
+266,53,1,S1,smooth and flowing
+267,53,2,S2,cascades to the floor like a train
+268,53,3,S3,an incredibly detailed and photorealistic image
+269,53,4,S4,beautiful aesthetic digital illustration
+270,54,0,S0,high dynamic range with soft shadow transitions
+271,54,1,S1,painting (artwork)
+272,54,2,S2,soft focus photography
+273,54,3,S3,old english and gothic
+274,54,4,S4,winter evening
+275,55,0,S0,"the lighting is harsh from the ceiling, highlighting hooh's judgmental stare and the mundane kitchen tiles in the background"
+276,55,1,S1,illustrative style
+277,55,2,S2,feeling whimsical and full of wonder
+278,55,3,S3,sinister vibes
+279,55,4,S4,rainbow background
+280,56,0,S0,renaissance building style
+281,56,1,S1,mad-stpk-bkpk
+282,56,2,S2,in the style of annie lebowitz
+283,56,3,S3,green
+284,56,4,S4,japan atmosphere
+285,57,0,S0,spontaneous and in motion
+286,57,1,S1,neon synthwave colors
+287,57,2,S2,focused on the face
+288,57,3,S3,cliff cramp
+289,57,4,S4,a visually striking contrast
+290,58,0,S0,made of paper
+291,58,1,S1,gapmoe kuudere grimdark
+292,58,2,S2,"the lighting is soft and studio-like, creating clean shadows"
+293,58,3,S3,cinematic photorealistic
+294,58,4,S4,shadowy hues
+295,59,0,S0,lazypos\lazypos
+296,59,1,S1,beautiful macro close-up imagery
+297,59,2,S2,surround the arena
+298,59,3,S3,amazing digital art
+299,59,4,S4,white glacial blue
+300,60,0,S0,geometric shapes
+301,60,1,S1,layered lines
+302,60,2,S2,front-facing view
+303,60,3,S3,spaceships
+304,60,4,S4,japanese culture
+305,61,0,S0,style of alessio albi
+306,61,1,S1,"titled ""step by step"""
+307,61,2,S2,trending urban style
+308,61,3,S3,in medieval lettering
+309,61,4,S4,art by james jean and josan gonzalez
+310,62,0,S0,chromatic aberration subtly warping urban reflections
+311,62,1,S1,eldritch oil style
+312,62,2,S2,by ricardo boffil and saturno butto
+313,62,3,S3,written in red ink
+314,62,4,S4,ffaerith-illu-nvwls-v1 1:1> defait
+315,63,0,S0,match face
+316,63,1,S1,highlights their polished appearance
+317,63,2,S2,ko rakusui
+318,63,3,S3,"abstract, swirling vortex of vivid reds, blacks, and hints of acidic greens"
+319,63,4,S4,"the composition, rendered as a detailed oil painting, captures the quiet magic of natureâs resilience and the promise of spring"
+320,64,0,S0,into hd
+321,64,1,S1,loish and laurie greasley
+322,64,2,S2,1.2:1.2
+323,64,3,S3,marjorie frances bruford
+324,64,4,S4,in the style of artics
+325,65,0,S0,warm firelight
+326,65,1,S1,mike mignola
+327,65,2,S2,careful tonal control
+328,65,3,S3,natural movement photoreal rendering
+329,65,4,S4,elaborate and detailed
+330,66,0,S0,red cover
+331,66,1,S1,breathtaking watercolor painting
+332,66,2,S2,"""kezial"""
+333,66,3,S3,eerie yet comical vibe
+334,66,4,S4,crisp photorealistic detail
+335,67,0,S0,alasdair mclellan
+336,67,1,S1,some higher force
+337,67,2,S2,"vibrant, multicolored shadows"
+338,67,3,S3,rhythmic lines
+339,67,4,S4,modern and sophisticated
+340,68,0,S0,red helmet
+341,68,1,S1,capturing the energy and excitement of the game
+342,68,2,S2,transparent
+343,68,3,S3,a beautiful pin - up portrait
+344,68,4,S4,bright white backlight creating sharp edges on fragments
+345,69,0,S0,32 bit colors
+346,69,1,S1,beauty and diversity
+347,69,2,S2,flat seamless gray studio backdrop
+348,69,3,S3,"orange, black and yellow"
+349,69,4,S4,emphasis on texture and contrast
+350,70,0,S0,soft and ethereal lighting
+351,70,1,S1,dark academia aesthetic
+352,70,2,S2,gentle highlights
+353,70,3,S3,blue
+354,70,4,S4,slightly high-angle dramatic view
+355,71,0,S0,a mixture of multi-layered structures of hot wax layers in different shades of color
+356,71,1,S1,"a gentle, almost imperceptible breeze"
+357,71,2,S2,made in abyss art style
+358,71,3,S3,full-body portrait
+359,71,4,S4,soft mist curling around the base of the structure
+360,72,0,S0,hyper-realistic photography style
+361,72,1,S1,realistic reflection of light on the glossy lips
+362,72,2,S2,\u13 nsfwsks
+363,72,3,S3,by jean - leon gerome
+364,72,4,S4,extra wide
+365,73,0,S0,the eerie atmosphere
+366,73,1,S1,hyper detailed 3 d render
+367,73,2,S2,shiny metal
+368,73,3,S3,overall sense of movement and texture
+369,73,4,S4,cartoonish style
+370,74,0,S0,morrowind
+371,74,1,S1,the spotlight of the projector's ghostly luminescence
+372,74,2,S2,cinematic hyperrealism
+373,74,3,S3,com/images/71069860
+374,74,4,S4,"a photorealistic, detailed photograph"
+375,75,0,S0,top frame title text
+376,75,1,S1,soft texture
+377,75,2,S2,free pencil drawings
+378,75,3,S3,splatter
+379,75,4,S4,"the palette of deep blacks, tarnished golds, and sickly purples enhances the tragic grandeur of, cinematic, painting"
+380,76,0,S0,ikeuchi
+381,76,1,S1,digital design masterpiece
+382,76,2,S2,the armor and skull
+383,76,3,S3,a gradient of light blue and white
+384,76,4,S4,3d streetart
+385,77,0,S0,sci-fi aesthetic
+386,77,1,S1,andras csuka
+387,77,2,S2,solipsist
+388,77,3,S3,street perspective
+389,77,4,S4,a brown and white color
+390,78,0,S0,a neon drawing
+391,78,1,S1,romantic soft focus
+392,78,2,S2,made in cinema 4d and photoshop
+393,78,3,S3,a fantasy digital painting
+394,78,4,S4,v2.0
+395,79,0,S0,a black and white design
+396,79,1,S1,magical surrealism
+397,79,2,S2,very detailed scenery
+398,79,3,S3,blend of reality
+399,79,4,S4,lucian freud dragan bibin
+400,80,0,S0,copper colored cursive font
+401,80,1,S1,surreal anime
+402,80,2,S2,by terry pratchett
+403,80,3,S3,propaganda poster
+404,80,4,S4,no complex textures
+405,81,0,S0,a sense of edge
+406,81,1,S1,visually flawless
+407,81,2,S2,by apofiss
+408,81,3,S3,a hyperrealistic image
+409,81,4,S4,r17329 illuu
+410,82,0,S0,charocal v1
+411,82,1,S1,a soft digital painting
+412,82,2,S2,stylish pose
+413,82,3,S3,futuristic technology
+414,82,4,S4,ethereal landscapes
+415,83,0,S0,minimal splashes of black ink
+416,83,1,S1,beautiful lit
+417,83,2,S2,complex scene
+418,83,3,S3,yellow - 1
+419,83,4,S4,set studio light
+420,84,0,S0,vibrant comics
+421,84,1,S1,dream weavers
+422,84,2,S2,by delphin enjolras
+423,84,3,S3,3d animation style
+424,84,4,S4,hud michelin
+425,85,0,S0,subtle aging effect around the wing edges
+426,85,1,S1,checkpoint-e18 s306:1.5
+427,85,2,S2,modern and bold style
+428,85,3,S3,moebius
+429,85,4,S4,minimalist graphic
+430,86,0,S0,slight upward angle
+431,86,1,S1,dramatic painterly fantasy lighting
+432,86,2,S2,dramatic laser lighting
+433,86,3,S3,in the style of onii kei
+434,86,4,S4,mouchotte-style
+435,87,0,S0,a cinematic composition
+436,87,1,S1,dressed in cyberpunk style
+437,87,2,S2,orange fire
+438,87,3,S3,duotone noir illustration
+439,87,4,S4,fabulous beauty in a dark dimly lit starlight
+440,88,0,S0,anime key art by yoshitaka amano
+441,88,1,S1,a photorealistic selfie-style image
+442,88,2,S2,fantastic artwork
+443,88,3,S3,clean minimalistic
+444,88,4,S4,detailing
+445,89,0,S0,realism portraits
+446,89,1,S1,uncanny
+447,89,2,S2,1> m4gicall1nes
+448,89,3,S3,utilizing a sony a7r iii
+449,89,4,S4,extra detailed
+450,90,0,S0,sense of quiet endurance and freedom
+451,90,1,S1,irresistible aroma
+452,90,2,S2,hyperrealistic detailed fantasy art
+453,90,3,S3,eclectic trends
+454,90,4,S4,rough and dirty croquis
+455,91,0,S0,winning photo
+456,91,1,S1,stunning painting by android jones
+457,91,2,S2,colored blue and yellow
+458,91,3,S3,are also white
+459,91,4,S4,gravure
+460,92,0,S0,a masterpiece in high detail
+461,92,1,S1,marina federovna
+462,92,2,S2,brutalist high fashion head shot photo
+463,92,3,S3,professionally shot photo
+464,92,4,S4,modelposing
+465,93,0,S0,a red youtube logo
+466,93,1,S1,black and neon orange
+467,93,2,S2,styled in a contemporary look
+468,93,3,S3,ai enhanced life-like detail
+469,93,4,S4,unsettling elegance
+470,94,0,S0,spelled out in neon letters
+471,94,1,S1,"a heavily desaturated, almost monochromatic scene"
+472,94,2,S2,steven artgerm lau
+473,94,3,S3,paper texture
+474,94,4,S4,carefully constructed armor of elegance
+475,95,0,S0,a sense of hope and optimism
+476,95,1,S1,karlkka
+477,95,2,S2,"bold contrasting colors (violet, teal, gold)"
+478,95,3,S3,"a flat, even, and slightly desaturated fluorescent glow"
+479,95,4,S4,captured up close
+480,96,0,S0,against the cool tones of the day
+481,96,1,S1,sh4unfl0x
+482,96,2,S2,"the warm, golden light of the rising sun"
+483,96,3,S3,"a haunting atmosphere of ancient power, mystery, and awe"
+484,96,4,S4,mad max themed
+485,97,0,S0,low front angle
+486,97,1,S1,provia 100f
+487,97,2,S2,minimalist geometric composition with fragmented shapes and metallic accents
+488,97,3,S3,", d & d, fantasy, intricate, elegant, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by artgerm and greg rutkowski and alphonse mucha"
+489,97,4,S4,--v 6.0 --ar 13:16
+490,98,0,S0,an almost palpable sense of mystery
+491,98,1,S1,slightly otherworldly
+492,98,2,S2,dark web
+493,98,3,S3,subtle ink wash techniques
+494,98,4,S4,alienlandscapeslora
+495,99,0,S0,photo by john william turner
+496,99,1,S1,blue hats
+497,99,2,S2,the ashen hues of a decaying world
+498,99,3,S3,"a photorealistic, ultra-detailed, and ethereal photograph"
+499,99,4,S4,professional fashion fine art photography
+500,100,0,S0,dnddarkestfantasy
+501,100,1,S1,a contrast between new and comfortably worn
+502,100,2,S2,slice of life cooking moment
+503,100,3,S3,highly detailed space photography
+504,100,4,S4,realistic film aesthetic
+505,101,0,S0,a simple minimalistic outline
+506,101,1,S1,iconic album covers
+507,101,2,S2,julia razumova
+508,101,3,S3,80s miami style
+509,101,4,S4,rich deep black colors
+510,102,0,S0,5))
+511,102,1,S1,inspired by the artistic style of norman rockwell
+512,102,2,S2,raspberry and sage
+513,102,3,S3,light red and dark gray
+514,102,4,S4,"the relaxed, natural ambiance"
+515,103,0,S0,nhl-003-naii
+516,103,1,S1,henry moret
+517,103,2,S2,ultra-detailed 3d rendering
+518,103,3,S3,bookeh background
+519,103,4,S4,reddizen
+520,104,0,S0,the background is light pink and the wording is in red and green
+521,104,1,S1,sweeping landscape photography
+522,104,2,S2,32k art photography
+523,104,3,S3,bright natural daylight with physically accurate lighting and soft shadows
+524,104,4,S4,black splashes
+525,105,0,S0,interplay of textures and colors
+526,105,1,S1,yoneyamaixl 4t lokrv 53p1:0.95
+527,105,2,S2,blue and silver metal
+528,105,3,S3,cuteness overload realism
+529,105,4,S4,traditional asian art
+530,106,0,S0,an 1 8 0 0 s photo
+531,106,1,S1,3d rim light
+532,106,2,S2,rain mist
+533,106,3,S3,art by antonio j manzanedo
+534,106,4,S4,tone
+535,107,0,S0,pg safe
+536,107,1,S1,"the lighting is moody with a cool-toned, high-contrast setup, emphasizing the texture of the glitter and the highlights on her skin"
+537,107,2,S2,thicc
+538,107,3,S3,diivesixl
+539,107,4,S4,a top hat
+540,108,0,S0,"bathed in a soft, diffused light"
+541,108,1,S1,ems-658-ems
+542,108,2,S2,"photorealistic, exquisite detailed photograph capturing a vintage, dodge charger with a black hood, parked on a snow covered bank"
+543,108,3,S3,hyperealistic
+544,108,4,S4,"palettes riches (beaucoup de rouges, ors, verts et bleus éclatants) qui donnent un effet épique et dramatique"
+545,109,0,S0,camera has taken a picture of its reflex
+546,109,1,S1,dramatic and appetizing quality
+547,109,2,S2,so monsters
+548,109,3,S3,a neon style
+549,109,4,S4,--weird 2000
+550,110,0,S0,fat to fit
+551,110,1,S1,impending doom
+552,110,2,S2,capcom artists
+553,110,3,S3,"realistic shaded lighting poster by craig mullism, artgerm, jeremy lipkin and michael garmash, unreal engine, radiant light, detailed and intricate environment, digital art, trending on art station"
+554,110,4,S4,a scifi starfield style poster
+555,111,0,S0,bright colours
+556,111,1,S1,oleg oprisco
+557,111,2,S2,unedited colors
+558,111,3,S3,photographer zhang jingna
+559,111,4,S4,cinematic and radiant composition
+560,112,0,S0,low-rise fit
+561,112,1,S1,"the image, painting, poster, photo"
+562,112,2,S2,brown and pink
+563,112,3,S3,divine ornaments
+564,112,4,S4,the colors of the mural
+565,113,0,S0,intricate details in hair and makeup
+566,113,1,S1,white metallic paper
+567,113,2,S2,strictly photorealistic
+568,113,3,S3,serene beauty
+569,113,4,S4,created as a digital painting caricature
+570,114,0,S0,jacques-louis david
+571,114,1,S1,randomly selected
+572,114,2,S2,old-school style
+573,114,3,S3,a subtle gothic edge
+574,114,4,S4,mj52:0.65
+575,115,0,S0,flowing gothic calligraphy
+576,115,1,S1,haunting dark fantasy illustration
+577,115,2,S2,production cinematic character render
+578,115,3,S3,63mm f/2.8 lens
+579,115,4,S4,hints of green
+580,116,0,S0,a sense of divine mystery
+581,116,1,S1,the texture of her skin and fabrics
+582,116,2,S2,playful yet believable
+583,116,3,S3,minimal strokes
+584,116,4,S4,smoked
+585,117,0,S0,c4d style
+586,117,1,S1,beautiful realistic
+587,117,2,S2,"by andreas rocha, colorful nebula in the night sky, stars, flowers and vines and creepers, establishing shot, cinematic, architecture, artstation hq, hd, 8k resolution, featured in art magazine"
+588,117,3,S3,medium-format print
+589,117,4,S4,wearing a costume
+590,118,0,S0,paintsplashv1:0.6
+591,118,1,S1,blurry distant background
+592,118,2,S2,historic artworks
+593,118,3,S3,kent williams
+594,118,4,S4,a white outline around the edges
+595,119,0,S0,the tropical atmosphere
+596,119,1,S1,capturing the grandeur and mystery of ancient rome
+597,119,2,S2,charming detailed character design
+598,119,3,S3,visually stunning and eclectic artwork
+599,119,4,S4,ultra realistic style
+600,120,0,S0,dynamic configuration
+601,120,1,S1,2.5d
+602,120,2,S2,a high quality render
+603,120,3,S3,ultrawide shot
+604,120,4,S4,white with hints of gold
+605,121,0,S0,deepening the shadows
+606,121,1,S1,superabsurd res
+607,121,2,S2,vividly blue
+608,121,3,S3,"swirls of blue, green, and purple"
+609,121,4,S4,a sense of movement
+610,122,0,S0,detailed lace
+611,122,1,S1,glowing earth
+612,122,2,S2,negative space amplifying the mood's resonance
+613,122,3,S3,a palette dominated by rich navy blues and shimmering aquamarine hues
+614,122,4,S4,"the lighting is artificial and creates an atmospheric, shady atmosphere"
+615,123,0,S0,clean and gradient colors background
+616,123,1,S1,in a larger font than the rest of the text
+617,123,2,S2,peder mork monsted
+618,123,3,S3,emphasizing the cat as the main subject
+619,123,4,S4,hyper realistic pencil drawing
+620,124,0,S0,hyper details
+621,124,1,S1,hyper-detailed oil painting
+622,124,2,S2,sensual and dreamy
+623,124,3,S3,beautiful shadowing
+624,124,4,S4,this extraordinary image
+625,125,0,S0,insane detail slider
+626,125,1,S1,spectral
+627,125,2,S2,storytelling composition
+628,125,3,S3,created by gustave dore and greg rutkowski
+629,125,4,S4,intricate and beautiful
+630,126,0,S0,subtle layered background lighting
+631,126,1,S1,patterns
+632,126,2,S2,a striking contrast with the dark background
+633,126,3,S3,ponyv5 noobe11 1 adamw-000013:0.7
+634,126,4,S4,intricate artwork by tooth wu
+635,127,0,S0,amazing fantastic qualities
+636,127,1,S1,dramatic shadows across her face and body
+637,127,2,S2,"graceful, calculated motions"
+638,127,3,S3,pixiv fanbox
+639,127,4,S4,soft and glowing from the lanterns
+640,128,0,S0,confident allure
+641,128,1,S1,neo brutalism
+642,128,2,S2,break <lora
+643,128,3,S3,for the evening
+644,128,4,S4,pearlescent white
+645,129,0,S0,a warm and inviting environment
+646,129,1,S1,horizontal scan lines
+647,129,2,S2,blurs the human hand
+648,129,3,S3,0.83)
+649,129,4,S4,surreal 4k painting
+650,130,0,S0,global ullumination
+651,130,1,S1,high-end mirrorless camera
+652,130,2,S2,in the style of world of warcraft icons
+653,130,3,S3,marking time
+654,130,4,S4,"clean, sharp lines"
+655,131,0,S0,designed specifically for sign language storytelling
+656,131,1,S1,japanese shōjo manga style
+657,131,2,S2,realistic nipple detail
+658,131,3,S3,detailed view of her features
+659,131,4,S4,breathtaking composition
+660,132,0,S0,fantasy book cover style
+661,132,1,S1,grunge photography
+662,132,2,S2,3 drender
+663,132,3,S3,a meticulous rendering of the vastness of space
+664,132,4,S4,the figure's form
+665,133,0,S0,a purple bra
+666,133,1,S1,timeless elegance of the scene
+667,133,2,S2,crazy marbled paper
+668,133,3,S3,intense coloration
+669,133,4,S4,soft fluffy fur with painterly watercolor texture
+670,134,0,S0,daniel e
+671,134,1,S1,in the style of frank frazetta and moebius
+672,134,2,S2,epicf4nta5yxl
+673,134,3,S3,modular pose
+674,134,4,S4,botticelli
+675,135,0,S0,sketchy ink strokes
+676,135,1,S1,casting an otherworldly glow
+677,135,2,S2,blue and pink colors
+678,135,3,S3,impressionnisme
+679,135,4,S4,soft gray tones
+680,136,0,S0,a colorful retrofuturistic blacklight uv cyborg figure
+681,136,1,S1,the colors of the dragon
+682,136,2,S2,turquoise blue
+683,136,3,S3,a rhythmic pattern
+684,136,4,S4,as the focal point
+685,137,0,S0,autumnal harmony
+686,137,1,S1,(edge polished anime realism)
+687,137,2,S2,thrilled (meme)
+688,137,3,S3,adding depth and realism to the scene
+689,137,4,S4,gritty film photography style
+690,138,0,S0,astonishing colors
+691,138,1,S1,two randomly three limit colors
+692,138,2,S2,wet skin
+693,138,3,S3,abstract texture
+694,138,4,S4,blending realism with magical realism
+695,139,0,S0,clean sharp focus
+696,139,1,S1,"an enchanted, otherworldly forest"
+697,139,2,S2,high quality textures
+698,139,3,S3,mico suayan
+699,139,4,S4,blue uniforms
+700,140,0,S0,massimo vignelli
+701,140,1,S1,high quality fantasy art
+702,140,2,S2,twin peaks movie poster art
+703,140,3,S3,ballet academia
+704,140,4,S4,bright lit cinematic studio fashion photography
+705,141,0,S0,glowing temporal sigils
+706,141,1,S1,style utilisé
+707,141,2,S2,use my uploaded photo as face and hair reference
+708,141,3,S3,moody colours
+709,141,4,S4,johanna rupprecht and william morris styles
+710,142,0,S0,"the warm, soft glow of late afternoon light"
+711,142,1,S1,by leo and diane dillon
+712,142,2,S2,cool and bright tint
+713,142,3,S3,anime space cowboy
+714,142,4,S4,a breathtaking landscape painting
+715,143,0,S0,concrete brutalist dark fantasy
+716,143,1,S1,naturalistic
+717,143,2,S2,"her sharp, detailed figure"
+718,143,3,S3,drift from her body into the dim atmosphere
+719,143,4,S4,high detail hand-painted anime background
+720,144,0,S0,ambient volumetric lighting
+721,144,1,S1,character design art
+722,144,2,S2,"breathtaking, photorealistic visualization"
+723,144,3,S3,slight mist
+724,144,4,S4,dark cinematic composition
+725,145,0,S0,gold design
+726,145,1,S1,pose de manera hot
+727,145,2,S2,drips of black paint
+728,145,3,S3,--ar
+729,145,4,S4,halloween-themed design
+730,146,0,S0,a slightly surreal and dreamlike quality
+731,146,1,S1,wildlife photo
+732,146,2,S2,by albedo glowing colossus
+733,146,3,S3,misty clouds
+734,146,4,S4,diamond black
+735,147,0,S0,a molten gold shimmer against the cold
+736,147,1,S1,trending on the artstation
+737,147,2,S2,intricate detail
+738,147,3,S3,bright midday sunlight diffusion
+739,147,4,S4,on the top left corner of the image
+740,148,0,S0,two-tone background
+741,148,1,S1,bold painterly textures
+742,148,2,S2,the style of sandalpunk
+743,148,3,S3,gu
+744,148,4,S4,vintage camera
+745,149,0,S0,eroded textures
+746,149,1,S1,blurs the distant
+747,149,2,S2,civbot - evolved
+748,149,3,S3,"bright, explosive fire"
+749,149,4,S4,written on the can
+750,150,0,S0,the hum of electric tools
+751,150,1,S1,"a modern, geometric layout"
+752,150,2,S2,no cinematic blur or depth of field
+753,150,3,S3,3 / 4 portrait
+754,150,4,S4,a golden-red glow across the scene
+755,151,0,S0,red and green neon lights outline her legs and arms and encircling her midriff
+756,151,1,S1,no loras
+757,151,2,S2,quixel megascan
+758,151,3,S3,extremely detailed v2:0.25
+759,151,4,S4,gustave dore
+760,152,0,S0,bright glazes
+761,152,1,S1,warm orange hues
+762,152,2,S2,fierce energy
+763,152,3,S3,"an ethereal, luminescent sheen"
+764,152,4,S4,rainbow gradient eyes
+765,153,0,S0,1.50
+766,153,1,S1,detailed fluffy fur
+767,153,2,S2,berlin techno style
+768,153,3,S3,a beautiful ultradetailed painting
+769,153,4,S4,henri rousseau
+770,154,0,S0,magical frost and shimmering stars
+771,154,1,S1,deep blue and purple tones
+772,154,2,S2,an extreme amount
+773,154,3,S3,dfunk sdxl
+774,154,4,S4,based on vegeta
+775,155,0,S0,baroque chic style
+776,155,1,S1,by norman rockwell and lucian freud
+777,155,2,S2,in vibrant colours
+778,155,3,S3,"moody, elegant aesthetic"
+779,155,4,S4,painted by greg rutkowski makoto shinkai takashi takeuchi studio ghibli
+780,156,0,S0,hyper realistic eye level exterior photo
+781,156,1,S1,gorgeous lighting
+782,156,2,S2,a sacred and cinematic depiction
+783,156,3,S3,"soft, billowing sky"
+784,156,4,S4,art & reality
+785,157,0,S0,red cursive font
+786,157,1,S1,in a smaller font size
+787,157,2,S2,"detailed, natural curvature of the nails and cuticles"
+788,157,3,S3,"a hyper-realistic, extremely detailed image"
+789,157,4,S4,slightly chaotic
+790,158,0,S0,"the background is dark and textured, with faint light reflecting off the metallic parts, creating a stark, dramatic effect"
+791,158,1,S1,delicate folklore-inspired motifs
+792,158,2,S2,marble texture
+793,158,3,S3,"in a futuristic, sci-fi style"
+794,158,4,S4,semi-transparent appearance
+795,159,0,S0,shaded face
+796,159,1,S1,trompe - l'sil illusionistic detail
+797,159,2,S2,in the style of men
+798,159,3,S3,a high-end editorial beauty campaign photograph
+799,159,4,S4,deep green and blue
+800,160,0,S0,in the style of decaying animatronic
+801,160,1,S1,the texture of her leather armor
+802,160,2,S2,painted green
+803,160,3,S3,buenas noches
+804,160,4,S4,calm and emotional atmosphere
+805,161,0,S0,full-body framing
+806,161,1,S1,highly detailed fur texture
+807,161,2,S2,deep purples and hot pinks
+808,161,3,S3,a heartwarming 3d character render
+809,161,4,S4,referencia para identificar la composición y los materiales
+810,162,0,S0,high monochrome contrast
+811,162,1,S1,bold and saturated
+812,162,2,S2,keyshot
+813,162,3,S3,high-contrast inkwork
+814,162,4,S4,sharp angular style
+815,163,0,S0,colored chalk
+816,163,1,S1,a high-quality digital illustration
+817,163,2,S2,balance
+818,163,3,S3,"slightly grimy, lived-in feel"
+819,163,4,S4,abstract illusionism
+820,164,0,S0,hyper-realistic minimalist black-and-white vertical portrait
+821,164,1,S1,the title of this image
+822,164,2,S2,minimalist sketches
+823,164,3,S3,fiery
+824,164,4,S4,anoear4 art style
+825,165,0,S0,art by hr giger
+826,165,1,S1,clear blue sky
+827,165,2,S2,image upgrader-v0.3-flux
+828,165,3,S3,"bold, vibrant colors"
+829,165,4,S4,unimaginable for the gods themselves
+830,166,0,S0,tang yau hoong
+831,166,1,S1,dreamy symbolism
+832,166,2,S2,a moody oil painting style
+833,166,3,S3,v2 yakumo alchemy
+834,166,4,S4,dark lines
+835,167,0,S0,highly detailed sculpture
+836,167,1,S1,daisera
+837,167,2,S2,pony shrimp
+838,167,3,S3,acrylic
+839,167,4,S4,"colorful, vibrant glow"
+840,168,0,S0,sin estilo de pintura digital
+841,168,1,S1,spindle
+842,168,2,S2,domestic
+843,168,3,S3,bloody crimson highlights
+844,168,4,S4,"soft, radiant highlights"
+845,169,0,S0,'qui-gon gym'
+846,169,1,S1,the intensity of the collector's obsession
+847,169,2,S2,back shining
+848,169,3,S3,minimal detail
+849,169,4,S4,wearing a black dress
+850,170,0,S0,heightens the scene
+851,170,1,S1,natalia drepina
+852,170,2,S2,white and inviting atmosphere
+853,170,3,S3,adekwatny do obrazu
+854,170,4,S4,the high-resolution image
+855,171,0,S0,craig russell and barry windsor-smith
+856,171,1,S1,a fantasy art style
+857,171,2,S2,cosmic horror style
+858,171,3,S3,by peter mohrbacher and dan mumford and nekro
+859,171,4,S4,a subtle hint of whimsy
+860,172,0,S0,"tranquil, otherworldly and inspiring"
+861,172,1,S1,symmetry portrait
+862,172,2,S2,соотношения 9
+863,172,3,S3,bird's eye view camera angle
+864,172,4,S4,oznogg i love this effect
+865,173,0,S0,drawing attention to the subjects
+866,173,1,S1,nouvis
+867,173,2,S2,white soviet font
+868,173,3,S3,in the style of sunset light
+869,173,4,S4,merging the world of art with reality
+870,174,0,S0,neat drawing
+871,174,1,S1,aesthetic style
+872,174,2,S2,very rainy atmosphere
+873,174,3,S3,delicate classical motifs
+874,174,4,S4,in the style of bella kotak
+875,175,0,S0,color background
+876,175,1,S1,beautiful
+877,175,2,S2,contrastes marqués
+878,175,3,S3,photo realistic high-resolution
+879,175,4,S4,intricate cg unity wallpaper
+880,176,0,S0,complementary colors
+881,176,1,S1,dark night
+882,176,2,S2,highlighting the textures of leaves and grass
+883,176,3,S3,portrait soft light
+884,176,4,S4,warm stadium lights
+885,177,0,S0,azure and beige color
+886,177,1,S1,an aperture of f/2.8
+887,177,2,S2,the letters are pink
+888,177,3,S3,tech filigrane
+889,177,4,S4,soft sculpting light
+890,178,0,S0,slimesskullwm
+891,178,1,S1,outlined in neon
+892,178,2,S2,art by danny roberts
+893,178,3,S3,"a neutral, blurred grey"
+894,178,4,S4,amazing image
+895,179,0,S0,intimate shot
+896,179,1,S1,dmitry kustanovich
+897,179,2,S2,a studio photo
+898,179,3,S3,4 k hdr hyper realistic
+899,179,4,S4,ar 21:9
+900,180,0,S0,bloom
+901,180,1,S1,the sparkle in the angels' eyes
+902,180,2,S2,vintage design poster print
+903,180,3,S3,fluffy and cuddly texture
+904,180,4,S4,the industrial metallic look of the t-60
+905,181,0,S0,a playful yet realistic touch
+906,181,1,S1,epic scenery
+907,181,2,S2,flux\vividlyreal
+908,181,3,S3,emphasizing the trousers in the foreground
+909,181,4,S4,wide angle dynamic action shot
+910,182,0,S0,in the style hopper
+911,182,1,S1,every week
+912,182,2,S2,extreme hot summer day
+913,182,3,S3,symmetrical chaos
+914,182,4,S4,by william nicholson
+915,183,0,S0,cinematic sunlight filtering through grass blades
+916,183,1,S1,dreamlike illustration
+917,183,2,S2,dramatically and extremely dilated
+918,183,3,S3,ethereal magentas
+919,183,4,S4,by jean - baptiste monge
+920,184,0,S0,0011001001:0.45
+921,184,1,S1,immense vertical depth
+922,184,2,S2,vast expanse
+923,184,3,S3,the scene's apocalyptic feel
+924,184,4,S4,is very low
+925,185,0,S0,"warm, golden light"
+926,185,1,S1,sketchfab
+927,185,2,S2,elegant oil painting in high relief
+928,185,3,S3,"atmospheric, moody tone"
+929,185,4,S4,dreamlike
+930,186,0,S0,a design
+931,186,1,S1,mandy jurgens
+932,186,2,S2,polaroid-style softness
+933,186,3,S3,good teeth
+934,186,4,S4,airelemental style
+935,187,0,S0,highlighting the rich textures of her clothing
+936,187,1,S1,a painting in the style of joan miro
+937,187,2,S2,artist jullian budinay makabresku
+938,187,3,S3,a beautiful artwork illustration
+939,187,4,S4,art by eiichiro oda
+940,188,0,S0,beautiful depth of field
+941,188,1,S1,eileen gray
+942,188,2,S2,"hopeful but grounded generative art, polished and fully lit environments elements and characters vibrant colors glistening geometric with fibonacci spacing high definition, axonometric drawings, liminal ( diffusion, spaces, and environments ), latent space environment chirality expression"
+943,188,3,S3,thomas kincaid
+944,188,4,S4,hdr chromed reflexion
+945,189,0,S0,vibrant vector
+946,189,1,S1,with realistic metallic texture
+947,189,2,S2,shifting in impossible geometries
+948,189,3,S3,3592307539
+949,189,4,S4,8mm fish-eye lens
+950,190,0,S0,ancient indian aesthetic
+951,190,1,S1,glowing light and deep shadow
+952,190,2,S2,szukalski
+953,190,3,S3,vibrant setting
+954,190,4,S4,style of alfred stieglitz
+955,191,0,S0,emotional silence
+956,191,1,S1,a dynamic backdrop of a futuristic city skyline
+957,191,2,S2,white and blue tones
+958,191,3,S3,quiet nostalgia
+959,191,4,S4,style is casual
+960,192,0,S0,animation character design by akira toriyama
+961,192,1,S1,high-detail digital painting style
+962,192,2,S2,"an abstract, painterly canvas"
+963,192,3,S3,a gradient of dark tones
+964,192,4,S4,strong natural light and soft shadows
+965,193,0,S0,ultra- detailed
+966,193,1,S1,futuristic robotics
+967,193,2,S2,shiny color
+968,193,3,S3,kombuchapunk
+969,193,4,S4,magical energy
+970,194,0,S0,dinoartframe
+971,194,1,S1,light emerald and dark beige
+972,194,2,S2,morning lake mist
+973,194,3,S3,menacing cinematic mid portrait
+974,194,4,S4,hyper-realistic lifelike texture
+975,195,0,S0,full detailed
+976,195,1,S1,hip modern vibe
+977,195,2,S2,personalize 42unl2w
+978,195,3,S3,oil paint drips
+979,195,4,S4,by annie swynnerton and diego rivera and elihu vedder
+980,196,0,S0,"gritty, cinematic style"
+981,196,1,S1,matt materials
+982,196,2,S2,aidmafluxpro1.1light-flux-v0.1:1
+983,196,3,S3,blurry foreground glitch effects
+984,196,4,S4,distorting the sense of up and down
+985,197,0,S0,green and camo
+986,197,1,S1,torchlight
+987,197,2,S2,dynamic viewpoint
+988,197,3,S3,f/2.0
+989,197,4,S4,high-detail fantasy horror art
+990,198,0,S0,soft color
+991,198,1,S1,refined elegance of the era
+992,198,2,S2,jinxpdxl
+993,198,3,S3,art by filipe pagliuso and justin gerard
+994,198,4,S4,ayami kojima
+995,199,0,S0,https
+996,199,1,S1,kenneth scott
+997,199,2,S2,a captivating fusion of impressionism and minimalism
+998,199,3,S3,volume light
+999,199,4,S4,cinematic software light

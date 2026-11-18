@@ -1,0 +1,392 @@
+{
+  "input_jsonl": "./dataset_experiments/fragment_level_records.jsonl",
+  "output_jsonl": "./dataset_experiments/selected_descriptors/selected_style_descriptors_by_effect_profile_strict.jsonl",
+  "selection_mode": "strict",
+  "effect_strict_match_value": true,
+  "total_input_records": 41802,
+  "total_output_records": 453,
+  "effect_dimensions": [
+    "artistic_context",
+    "atmospheric_intensity",
+    "platform_association",
+    "realism",
+    "sensory_salience",
+    "stylization"
+  ],
+  "excluded_effect_dimensions": [
+    "depiction_explicitness",
+    "violence_graphicness"
+  ],
+  "quotas_per_dimension": {
+    "single_high": 60,
+    "mixed_high": 30,
+    "single_low": 10,
+    "mixed_low": 10
+  },
+  "high_threshold": 0.7,
+  "low_threshold": 0.3,
+  "skipped_records": {},
+  "dimensions": [
+    {
+      "effect_dimension": "artistic_context",
+      "available_records": 41802,
+      "selected_records": 81,
+      "target_records": 110,
+      "selection_mode": "strict",
+      "bucket_counts": {
+        "single_high": 31,
+        "mixed_high": 30,
+        "single_low": 10,
+        "mixed_low": 10
+      },
+      "strict_selected_counts": {
+        "single_high": 31,
+        "mixed_high": 30,
+        "single_low": 10,
+        "mixed_low": 10
+      },
+      "fallback_selected_counts": {},
+      "bucket_details": {
+        "single_high": {
+          "quota": 60,
+          "selection_mode": "strict",
+          "selection_strategy": "strict_only",
+          "eligible_strict_before_dedup": 31,
+          "selected": 31,
+          "strict_selected": 31,
+          "fallback_selected": 0
+        },
+        "mixed_high": {
+          "quota": 30,
+          "selection_mode": "strict",
+          "selection_strategy": "strict_only",
+          "eligible_strict_before_dedup": 6684,
+          "selected": 30,
+          "strict_selected": 30,
+          "fallback_selected": 0
+        },
+        "single_low": {
+          "quota": 10,
+          "selection_mode": "strict",
+          "selection_strategy": "strict_only",
+          "eligible_strict_before_dedup": 4345,
+          "selected": 10,
+          "strict_selected": 10,
+          "fallback_selected": 0
+        },
+        "mixed_low": {
+          "quota": 10,
+          "selection_mode": "strict",
+          "selection_strategy": "strict_only",
+          "eligible_strict_before_dedup": 14907,
+          "selected": 10,
+          "strict_selected": 10,
+          "fallback_selected": 0
+        }
+      },
+      "high_threshold": 0.7,
+      "low_threshold": 0.3
+    },
+    {
+      "effect_dimension": "atmospheric_intensity",
+      "available_records": 41802,
+      "selected_records": 64,
+      "target_records": 110,
+      "selection_mode": "strict",
+      "bucket_counts": {
+        "single_high": 14,
+        "mixed_high": 30,
+        "single_low": 10,
+        "mixed_low": 10
+      },
+      "strict_selected_counts": {
+        "single_high": 14,
+        "mixed_high": 30,
+        "single_low": 10,
+        "mixed_low": 10
+      },
+      "fallback_selected_counts": {},
+      "bucket_details": {
+        "single_high": {
+          "quota": 60,
+          "selection_mode": "strict",
+          "selection_strategy": "strict_only",
+          "eligible_strict_before_dedup": 14,
+          "selected": 14,
+          "strict_selected": 14,
+          "fallback_selected": 0
+        },
+        "mixed_high": {
+          "quota": 30,
+          "selection_mode": "strict",
+          "selection_strategy": "strict_only",
+          "eligible_strict_before_dedup": 7656,
+          "selected": 30,
+          "strict_selected": 30,
+          "fallback_selected": 0
+        },
+        "single_low": {
+          "quota": 10,
+          "selection_mode": "strict",
+          "selection_strategy": "strict_only",
+          "eligible_strict_before_dedup": 1823,
+          "selected": 10,
+          "strict_selected": 10,
+          "fallback_selected": 0
+        },
+        "mixed_low": {
+          "quota": 10,
+          "selection_mode": "strict",
+          "selection_strategy": "strict_only",
+          "eligible_strict_before_dedup": 9978,
+          "selected": 10,
+          "strict_selected": 10,
+          "fallback_selected": 0
+        }
+      },
+      "high_threshold": 0.7,
+      "low_threshold": 0.3
+    },
+    {
+      "effect_dimension": "platform_association",
+      "available_records": 41802,
+      "selected_records": 110,
+      "target_records": 110,
+      "selection_mode": "strict",
+      "bucket_counts": {
+        "single_high": 60,
+        "mixed_high": 30,
+        "single_low": 10,
+        "mixed_low": 10
+      },
+      "strict_selected_counts": {
+        "single_high": 60,
+        "mixed_high": 30,
+        "single_low": 10,
+        "mixed_low": 10
+      },
+      "fallback_selected_counts": {},
+      "bucket_details": {
+        "single_high": {
+          "quota": 60,
+          "selection_mode": "strict",
+          "selection_strategy": "strict_only",
+          "eligible_strict_before_dedup": 266,
+          "selected": 60,
+          "strict_selected": 60,
+          "fallback_selected": 0
+        },
+        "mixed_high": {
+          "quota": 30,
+          "selection_mode": "strict",
+          "selection_strategy": "strict_only",
+          "eligible_strict_before_dedup": 412,
+          "selected": 30,
+          "strict_selected": 30,
+          "fallback_selected": 0
+        },
+        "single_low": {
+          "quota": 10,
+          "selection_mode": "strict",
+          "selection_strategy": "strict_only",
+          "eligible_strict_before_dedup": 22564,
+          "selected": 10,
+          "strict_selected": 10,
+          "fallback_selected": 0
+        },
+        "mixed_low": {
+          "quota": 10,
+          "selection_mode": "strict",
+          "selection_strategy": "strict_only",
+          "eligible_strict_before_dedup": 26148,
+          "selected": 10,
+          "strict_selected": 10,
+          "fallback_selected": 0
+        }
+      },
+      "high_threshold": 0.7,
+      "low_threshold": 0.3
+    },
+    {
+      "effect_dimension": "realism",
+      "available_records": 41802,
+      "selected_records": 65,
+      "target_records": 110,
+      "selection_mode": "strict",
+      "bucket_counts": {
+        "single_high": 15,
+        "mixed_high": 30,
+        "single_low": 10,
+        "mixed_low": 10
+      },
+      "strict_selected_counts": {
+        "single_high": 15,
+        "mixed_high": 30,
+        "single_low": 10,
+        "mixed_low": 10
+      },
+      "fallback_selected_counts": {},
+      "bucket_details": {
+        "single_high": {
+          "quota": 60,
+          "selection_mode": "strict",
+          "selection_strategy": "strict_only",
+          "eligible_strict_before_dedup": 15,
+          "selected": 15,
+          "strict_selected": 15,
+          "fallback_selected": 0
+        },
+        "mixed_high": {
+          "quota": 30,
+          "selection_mode": "strict",
+          "selection_strategy": "strict_only",
+          "eligible_strict_before_dedup": 2161,
+          "selected": 30,
+          "strict_selected": 30,
+          "fallback_selected": 0
+        },
+        "single_low": {
+          "quota": 10,
+          "selection_mode": "strict",
+          "selection_strategy": "strict_only",
+          "eligible_strict_before_dedup": 11806,
+          "selected": 10,
+          "strict_selected": 10,
+          "fallback_selected": 0
+        },
+        "mixed_low": {
+          "quota": 10,
+          "selection_mode": "strict",
+          "selection_strategy": "strict_only",
+          "eligible_strict_before_dedup": 21019,
+          "selected": 10,
+          "strict_selected": 10,
+          "fallback_selected": 0
+        }
+      },
+      "high_threshold": 0.7,
+      "low_threshold": 0.3
+    },
+    {
+      "effect_dimension": "sensory_salience",
+      "available_records": 41802,
+      "selected_records": 68,
+      "target_records": 110,
+      "selection_mode": "strict",
+      "bucket_counts": {
+        "single_high": 18,
+        "mixed_high": 30,
+        "single_low": 10,
+        "mixed_low": 10
+      },
+      "strict_selected_counts": {
+        "single_high": 18,
+        "mixed_high": 30,
+        "single_low": 10,
+        "mixed_low": 10
+      },
+      "fallback_selected_counts": {},
+      "bucket_details": {
+        "single_high": {
+          "quota": 60,
+          "selection_mode": "strict",
+          "selection_strategy": "strict_only",
+          "eligible_strict_before_dedup": 18,
+          "selected": 18,
+          "strict_selected": 18,
+          "fallback_selected": 0
+        },
+        "mixed_high": {
+          "quota": 30,
+          "selection_mode": "strict",
+          "selection_strategy": "strict_only",
+          "eligible_strict_before_dedup": 10236,
+          "selected": 30,
+          "strict_selected": 30,
+          "fallback_selected": 0
+        },
+        "single_low": {
+          "quota": 10,
+          "selection_mode": "strict",
+          "selection_strategy": "strict_only",
+          "eligible_strict_before_dedup": 835,
+          "selected": 10,
+          "strict_selected": 10,
+          "fallback_selected": 0
+        },
+        "mixed_low": {
+          "quota": 10,
+          "selection_mode": "strict",
+          "selection_strategy": "strict_only",
+          "eligible_strict_before_dedup": 5650,
+          "selected": 10,
+          "strict_selected": 10,
+          "fallback_selected": 0
+        }
+      },
+      "high_threshold": 0.7,
+      "low_threshold": 0.3
+    },
+    {
+      "effect_dimension": "stylization",
+      "available_records": 41802,
+      "selected_records": 65,
+      "target_records": 110,
+      "selection_mode": "strict",
+      "bucket_counts": {
+        "single_high": 15,
+        "mixed_high": 30,
+        "single_low": 10,
+        "mixed_low": 10
+      },
+      "strict_selected_counts": {
+        "single_high": 15,
+        "mixed_high": 30,
+        "single_low": 10,
+        "mixed_low": 10
+      },
+      "fallback_selected_counts": {},
+      "bucket_details": {
+        "single_high": {
+          "quota": 60,
+          "selection_mode": "strict",
+          "selection_strategy": "strict_only",
+          "eligible_strict_before_dedup": 15,
+          "selected": 15,
+          "strict_selected": 15,
+          "fallback_selected": 0
+        },
+        "mixed_high": {
+          "quota": 30,
+          "selection_mode": "strict",
+          "selection_strategy": "strict_only",
+          "eligible_strict_before_dedup": 10203,
+          "selected": 30,
+          "strict_selected": 30,
+          "fallback_selected": 0
+        },
+        "single_low": {
+          "quota": 10,
+          "selection_mode": "strict",
+          "selection_strategy": "strict_only",
+          "eligible_strict_before_dedup": 2078,
+          "selected": 10,
+          "strict_selected": 10,
+          "fallback_selected": 0
+        },
+        "mixed_low": {
+          "quota": 10,
+          "selection_mode": "strict",
+          "selection_strategy": "strict_only",
+          "eligible_strict_before_dedup": 7832,
+          "selected": 10,
+          "strict_selected": 10,
+          "fallback_selected": 0
+        }
+      },
+      "high_threshold": 0.7,
+      "low_threshold": 0.3
+    }
+  ],
+  "output_fields_rule": "all original fields except sample_id, plus count and effect selection metadata"
+}

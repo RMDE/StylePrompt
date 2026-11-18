@@ -1,0 +1,163 @@
+{
+  "input_jsonl": "./dataset_experiments/fragment_level_records.jsonl",
+  "output_jsonl": "./dataset_experiments/selected_descriptors/selected_style_descriptors_by_mechanism.jsonl",
+  "total_input_records": 41802,
+  "total_output_records": 1200,
+  "quotas_per_category": {
+    "high_frequency": 45,
+    "high_style_strength": 45,
+    "cluster_representative": 20,
+    "low_style_strength": 15,
+    "low_frequency_tail": 25
+  },
+  "skipped_records": {},
+  "category_count": 8,
+  "categories": [
+    {
+      "mechanism_category": "perceptual_cue",
+      "available_records": 9539,
+      "selected_records": 150,
+      "target_records": 150,
+      "bucket_counts": {
+        "high_frequency": 45,
+        "high_style_strength": 45,
+        "cluster_representative": 20,
+        "low_style_strength": 15,
+        "low_frequency_tail": 25
+      },
+      "embedding_backend": "sentence-transformer:BAAI/bge-large-en-v1.5",
+      "min_count": 1,
+      "max_count": 10823,
+      "min_strength": 0.0,
+      "max_strength": 1.0
+    },
+    {
+      "mechanism_category": "reference_anchor",
+      "available_records": 10016,
+      "selected_records": 150,
+      "target_records": 150,
+      "bucket_counts": {
+        "high_frequency": 45,
+        "high_style_strength": 45,
+        "cluster_representative": 20,
+        "low_style_strength": 15,
+        "low_frequency_tail": 25
+      },
+      "embedding_backend": "sentence-transformer:BAAI/bge-large-en-v1.5",
+      "min_count": 1,
+      "max_count": 5834,
+      "min_strength": 0.0,
+      "max_strength": 1.0
+    },
+    {
+      "mechanism_category": "platform_context",
+      "available_records": 3112,
+      "selected_records": 150,
+      "target_records": 150,
+      "bucket_counts": {
+        "high_frequency": 45,
+        "high_style_strength": 45,
+        "cluster_representative": 20,
+        "low_style_strength": 15,
+        "low_frequency_tail": 25
+      },
+      "embedding_backend": "sentence-transformer:BAAI/bge-large-en-v1.5",
+      "min_count": 1,
+      "max_count": 5262,
+      "min_strength": 0.0,
+      "max_strength": 1.0
+    },
+    {
+      "mechanism_category": "contextual_frame",
+      "available_records": 1987,
+      "selected_records": 150,
+      "target_records": 150,
+      "bucket_counts": {
+        "high_frequency": 45,
+        "high_style_strength": 45,
+        "cluster_representative": 20,
+        "low_style_strength": 15,
+        "low_frequency_tail": 25
+      },
+      "embedding_backend": "sentence-transformer:BAAI/bge-large-en-v1.5",
+      "min_count": 1,
+      "max_count": 4828,
+      "min_strength": 0.0,
+      "max_strength": 0.9
+    },
+    {
+      "mechanism_category": "rendering_medium",
+      "available_records": 3209,
+      "selected_records": 150,
+      "target_records": 150,
+      "bucket_counts": {
+        "high_frequency": 45,
+        "high_style_strength": 45,
+        "cluster_representative": 20,
+        "low_style_strength": 15,
+        "low_frequency_tail": 25
+      },
+      "embedding_backend": "sentence-transformer:BAAI/bge-large-en-v1.5",
+      "min_count": 1,
+      "max_count": 5504,
+      "min_strength": 0.0,
+      "max_strength": 1.0
+    },
+    {
+      "mechanism_category": "spatial_composition",
+      "available_records": 3900,
+      "selected_records": 150,
+      "target_records": 150,
+      "bucket_counts": {
+        "high_frequency": 45,
+        "high_style_strength": 45,
+        "cluster_representative": 20,
+        "low_style_strength": 15,
+        "low_frequency_tail": 25
+      },
+      "embedding_backend": "sentence-transformer:BAAI/bge-large-en-v1.5",
+      "min_count": 1,
+      "max_count": 2452,
+      "min_strength": 0.0,
+      "max_strength": 1.0
+    },
+    {
+      "mechanism_category": "affective_atmosphere",
+      "available_records": 6952,
+      "selected_records": 150,
+      "target_records": 150,
+      "bucket_counts": {
+        "high_frequency": 45,
+        "high_style_strength": 45,
+        "cluster_representative": 20,
+        "low_style_strength": 15,
+        "low_frequency_tail": 25
+      },
+      "embedding_backend": "sentence-transformer:BAAI/bge-large-en-v1.5",
+      "min_count": 1,
+      "max_count": 2257,
+      "min_strength": 0.0,
+      "max_strength": 1.0
+    },
+    {
+      "mechanism_category": "representational_regime",
+      "available_records": 3087,
+      "selected_records": 150,
+      "target_records": 150,
+      "bucket_counts": {
+        "high_frequency": 45,
+        "high_style_strength": 45,
+        "cluster_representative": 20,
+        "low_style_strength": 15,
+        "low_frequency_tail": 25
+      },
+      "embedding_backend": "sentence-transformer:BAAI/bge-large-en-v1.5",
+      "min_count": 1,
+      "max_count": 3351,
+      "min_strength": 0.0,
+      "max_strength": 1.0
+    }
+  ],
+  "output_fields_rule": "all original fields except sample_id, plus count",
+  "device": "cuda:0"
+}

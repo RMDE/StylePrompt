@@ -1,0 +1,21 @@
+T00: {style}
+T01: in the style of {style}
+T02: rendered in {style} style
+T03: depicted in a {style} style
+T04: illustrated in {style} style
+T05: with a {style} aesthetic
+T06: in a {style} visual style
+T07: using a {style} rendering style
+T08: with the appearance of {style}
+T09: in the manner of {style}
+T10: styled as {style}
+T11: presented in {style} style
+T12: portrayed in a {style} style
+T13: visualized in {style} style
+T14: with {style} artistic treatment
+T15: following a {style} style
+T16: adopting a {style} visual appearance
+T17: given a {style} look
+T18: transformed into {style} style
+T19: with stylistic features of {style}
+T20: as a {style}-style image
